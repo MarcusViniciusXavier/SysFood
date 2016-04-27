@@ -1,0 +1,7 @@
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Domain\bin\Debug\SysFood.Domain.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Domain\bin\Debug\SysFood.Domain.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Domain\bin\Debug\SysFood.Interfaces.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Domain\bin\Debug\SysFood.Interfaces.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Domain\obj\Debug\SysFood.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Domain\obj\Debug\SysFood.Domain.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Domain\obj\Debug\SysFood.Domain.pdb

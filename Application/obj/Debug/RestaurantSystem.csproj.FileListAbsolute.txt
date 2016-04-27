@@ -1,0 +1,13 @@
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.exe.config
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.exe
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.pdb
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csprojResolveAssemblyReference.cache
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.Base.FormBase.resources
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.Properties.Resources.resources
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.Segurança.Login.resources
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.GenerateResource.Cache
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.exe
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.pdb
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\bin\Debug\MetroFramework.dll
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\bin\Debug\MetroFramework.Fonts.dll
+c:\users\hide\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.MenuPrincipal.resources

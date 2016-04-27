@@ -1,0 +1,12 @@
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\bin\Debug\SysFood.Data.dll.config
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\bin\Debug\SysFood.Data.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\bin\Debug\SysFood.Data.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\bin\Debug\EntityFramework.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\bin\Debug\SysFood.Interfaces.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\bin\Debug\SysFood.Interfaces.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\bin\Debug\EntityFramework.xml
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\obj\Debug\SysFood.Data.csprojResolveAssemblyReference.cache
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\obj\Debug\SysFood.Data.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Data\obj\Debug\SysFood.Data.pdb

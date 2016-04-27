@@ -1,0 +1,4 @@
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\SysFood.Interfaces\bin\Debug\SysFood.Interfaces.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\SysFood.Interfaces\bin\Debug\SysFood.Interfaces.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\SysFood.Interfaces\obj\Debug\SysFood.Interfaces.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\SysFood.Interfaces\obj\Debug\SysFood.Interfaces.pdb

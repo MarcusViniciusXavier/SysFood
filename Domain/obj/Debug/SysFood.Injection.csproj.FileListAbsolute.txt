@@ -1,0 +1,15 @@
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\Injection.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\Injection.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\SimpleInjector.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\SysFood.Data.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\SysFood.Domain.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\SysFood.Interfaces.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\EntityFramework.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\SysFood.Data.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\SysFood.Domain.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\SysFood.Interfaces.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\SimpleInjector.xml
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\bin\Debug\EntityFramework.xml
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\obj\Debug\SysFood.Injection.csprojResolveAssemblyReference.cache
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\obj\Debug\Injection.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\RestaurantSystem\Injection\obj\Debug\Injection.pdb
